@@ -23,4 +23,4 @@ Rust · Java · Python · SQL · webMethods integration · Linux
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/diogocccarvalho)
-- diogocccarvalho@gmail.com
+- [diogocccarvalho@proton.me](mailto:diogocccarvalho@proton.me)
