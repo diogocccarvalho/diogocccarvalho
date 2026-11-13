@@ -9,10 +9,10 @@ performance work**.
 - **[rust-mamba](https://github.com/diogocccarvalho/rust-mamba)** — Mamba /
   state-space models implemented from scratch in Rust, paired with a
   line-by-line technical deep dive into how selective SSMs work.
-- **[notes-router](https://github.com/diogocccarvalho/notes-router)** — local
-  semantic router for markdown vaults: hybrid retrieval (embeddings + IDF +
-  learned corrections), self-auditing QA loop, deterministic note editing.
-  All local, zero cloud.
+- **[haystack](https://github.com/diogocccarvalho/haystack)** — local semantic
+  router for markdown vaults: hybrid retrieval (embeddings + IDF + learned
+  corrections), self-auditing QA loop, deterministic note editing. All local,
+  zero cloud.
 - In progress: a Godot 4.7 + Rust fighting-game AI (n-gram opponent modeling),
   publishing when shippable.
 
