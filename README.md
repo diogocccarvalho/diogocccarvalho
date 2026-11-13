@@ -18,7 +18,7 @@ performance work**.
 
 ## Stack
 
-Rust · Java · Python · SQL · webMethods integration · Linux
+Rust · Java · Python · SQL · Linux
 
 ## Contact
 
