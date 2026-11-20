@@ -13,6 +13,12 @@ performance work**.
   router for markdown vaults: hybrid retrieval (embeddings + IDF + learned
   corrections), self-auditing QA loop, deterministic note editing. All local,
   zero cloud.
+- **[diamondhead](https://github.com/diogocccarvalho/diamondhead)** — crystallization
+  architecture for software agents: a pre-LLM hook watches an agent's live
+  traffic and compiles its repeatedly-proven procedures into deterministic,
+  verified components that fire on trigger (SPRT promotion gate, genetic dream
+  loop, proof-tier graduation kernel-checked in Lean 4). Companion to haystack:
+  haystack indexes what a system knows, diamondhead what it does.
 - In progress: a Godot 4.7 + Rust fighting-game AI (n-gram opponent modeling),
   publishing when shippable.
 
